@@ -1,4 +1,4 @@
-# Precision-Farming-Using-Argumented-Intelligence
+# Precision-Farming-Using-Re-enforcement-learning
 Farming is one of the world's solution to most existing problems..Food shortages and water shortages. Precision farming is therefore vital in such a way that it solves problems of water shortages but maximizing yield 
 Digitization of data collection processes in the crop fields will be at the heart of the next agricultural revolution. But this will take time, especially when taking into account that most farmers or agronomists are still using pen and paper to collect data. 
 
